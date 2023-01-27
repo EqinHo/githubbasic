@@ -1,0 +1,15 @@
+C:\ga\semester 2\ObjektprogrameeringC#\githubbasic\bin\Debug\net6.0\githubbasic.exe
+C:\ga\semester 2\ObjektprogrameeringC#\githubbasic\bin\Debug\net6.0\githubbasic.deps.json
+C:\ga\semester 2\ObjektprogrameeringC#\githubbasic\bin\Debug\net6.0\githubbasic.runtimeconfig.json
+C:\ga\semester 2\ObjektprogrameeringC#\githubbasic\bin\Debug\net6.0\githubbasic.dll
+C:\ga\semester 2\ObjektprogrameeringC#\githubbasic\bin\Debug\net6.0\githubbasic.pdb
+C:\ga\semester 2\ObjektprogrameeringC#\githubbasic\obj\Debug\net6.0\githubbasic.csproj.AssemblyReference.cache
+C:\ga\semester 2\ObjektprogrameeringC#\githubbasic\obj\Debug\net6.0\githubbasic.GeneratedMSBuildEditorConfig.editorconfig
+C:\ga\semester 2\ObjektprogrameeringC#\githubbasic\obj\Debug\net6.0\githubbasic.AssemblyInfoInputs.cache
+C:\ga\semester 2\ObjektprogrameeringC#\githubbasic\obj\Debug\net6.0\githubbasic.AssemblyInfo.cs
+C:\ga\semester 2\ObjektprogrameeringC#\githubbasic\obj\Debug\net6.0\githubbasic.csproj.CoreCompileInputs.cache
+C:\ga\semester 2\ObjektprogrameeringC#\githubbasic\obj\Debug\net6.0\githubbasic.dll
+C:\ga\semester 2\ObjektprogrameeringC#\githubbasic\obj\Debug\net6.0\refint\githubbasic.dll
+C:\ga\semester 2\ObjektprogrameeringC#\githubbasic\obj\Debug\net6.0\githubbasic.pdb
+C:\ga\semester 2\ObjektprogrameeringC#\githubbasic\obj\Debug\net6.0\githubbasic.genruntimeconfig.cache
+C:\ga\semester 2\ObjektprogrameeringC#\githubbasic\obj\Debug\net6.0\ref\githubbasic.dll
